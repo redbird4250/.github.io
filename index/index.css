@@ -40,3 +40,10 @@ body {
 .navbar-nav .nav-link {
   color: white !important;
 }
+
+.profile-photo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
